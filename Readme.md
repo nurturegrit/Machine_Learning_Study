@@ -23,3 +23,13 @@ The goal of this repository is to:
 3. **Updating Notebooks:**
    - If you find something unclear in an existing notebook, research the topic and update the notebook with your findings.
    - Make updates in a branch and submit a pull request for review.
+
+## Repository Structure
+### Subject/
+   Concept1/
+      Research.ipynb
+   Concept2/
+      Research.ipynb
+### Subject2/
+   Concept-Name/
+      research.ipynb
