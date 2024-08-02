@@ -26,10 +26,10 @@ The goal of this repository is to:
 
 ## Repository Structure
 ### Subject/
-   Concept1/
-      Research.ipynb
-   Concept2/
-      Research.ipynb
+   #### Concept1/
+      ##### Research.ipynb
+   #### Concept2/
+      ##### Research.ipynb
 ### Subject2/
-   Concept-Name/
-      research.ipynb
+   #### Concept-Name/
+      ##### Research.ipynb
